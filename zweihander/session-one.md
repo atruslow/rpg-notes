@@ -1,6 +1,6 @@
 # Session One
 
-# Other Players
+## Other Players
 
 * Greg -> Nuranda
 	* dwarf hedge knight with one leg
